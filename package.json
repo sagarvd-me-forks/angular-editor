@@ -1,6 +1,6 @@
 {
-  "name": "@sagarvd/angular-editor",
-  "version": "1.1.2",
+  "name": "@sagarvd.me/angular-editor",
+  "version": "1.0.5",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -18,7 +18,6 @@
     "copy:license": "cpx LICENSE dist/kolkov/angular-editor",
     "test-ci": "ng test angular-editor --code-coverage --watch=false --browsers=ChromeHeadless && cat ./coverage/angular-editor/lcov.info | coveralls"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^8.2.14",
     "@angular/common": "^8.2.14",

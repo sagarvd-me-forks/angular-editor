@@ -173,7 +173,7 @@ export class AngularEditorService {
    * @param imageUrl The imageUrl.
    */
   insertImage(imageUrl: string) {
-    let image = '<img style="max-height: 300px; width: 80vw;" src="'+imageUrl+'"';
+    let image = '<img style="max-height: 300px; width: 80%;" src="'+imageUrl+'">';
     this.insertHtml(image);
     // this.doc.execCommand('insertImage', false, imageUrl);
   }

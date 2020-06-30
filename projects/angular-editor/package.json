@@ -1,6 +1,6 @@
 {
   "name": "@sagarvd.me/angular-editor",
-  "version": "1.0.5",
+  "version": "1.0.10",
   "description": "A simple native WYSIWYG editor for Angular 6+, 7+, 8+. Rich Text editor component for Angular.",
   "author": "Sagar V <_@sagarvd.me>",
   "repository": "https://github.com/sagarvd/angular-editor",
